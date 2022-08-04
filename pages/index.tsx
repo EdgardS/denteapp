@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Aplicacón</title>
+        <title>Aplicación</title>
       </Head>
       <div className="grid place-items-center h-screen">
         <div>
